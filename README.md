@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahounan
-- 👀 I’m interested in Python for Data Science with an application to the financial industry
+- 👀 I’m interested in Python for Data Science with an application to the financial industry and tech industry
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and data science projects
 - 📫 How to reach me on 
