@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahounan
 - I have 8 years of experience in survey design, causal inference and econometrics analysis using STATA. I am now transitioning from STATA to Python.
-- 👀 I’m interested in Python for Data Science with an application to the financial industry and tech industry
+- 👀 I’m interested in Python for Data Science with an application to the financial and tech industry
 - 🌱 I’m currently intensively learning Python for Data Science
 - 💞️ I’m looking to collaborate on Python and data science projects
 - 📫 How to reach me on 
